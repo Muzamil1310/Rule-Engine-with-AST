@@ -1,4 +1,4 @@
-Steps to setup:
+Steps to setup the project:
 
 First install the zip file from github and extract it to a directory of your choice.
 
