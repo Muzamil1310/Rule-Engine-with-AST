@@ -4,7 +4,7 @@ First install the zip file from github and extract it to a directory of your cho
 
 Then if you are using VS Code then locate your folder where you extracted it
 
-After Selecting the folder go to the terminal and give this command in the terminal: npm install
+After Selecting the folder go to the terminal and give this command in the terminal: npm install(optional)
 
 And then give the command: cd client
 And then give the command: node server.js
